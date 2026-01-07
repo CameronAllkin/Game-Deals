@@ -1,2 +1,3 @@
-# Game Deals
+# game_deals
 
+A new Flutter project.
